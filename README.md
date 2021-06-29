@@ -1,0 +1,2 @@
+# Face-Recognition-using-KNN-Algorithm.
+This Project is based on Machine Learning Algorithm ( i.e. KNN-Algorithm ). In this Project we first train the interpreter by showing some Datasets &amp; then test it. Face recognition utilizes facial features for security purposes. The Project is coded in pure Python Language with many package libraries like sklearn, numpy etc. The K-Nearest Neighbor algorithm uses neighborhood classification as the predictive value of a good instance value.
